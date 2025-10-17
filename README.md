@@ -1,4 +1,4 @@
-# Phase Two Project: Movie analysis
+# Phase Two Project: MOVIE ANALYSIS
 
 This is a Data Science phase 2 project, contributed equally by [Limo Dennis](https://github.com/ShemDennis), [Ronoh Peter](https://github.com/RonohSoy), [Osoro Delvin](https://github.com/Delvinah), [Thuo Boniface](https://github.com/Boninafethuo) and [Gitau Joy](https://github.com/Mweru).
 
